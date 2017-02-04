@@ -11,4 +11,5 @@ Files:
 	.ipynb in pdf format.
 
 excercising_stock_option.py -> Python Script
+
 Exercising+a+Stock+Option.pdf -> pdf version of the jupyter notebook script
